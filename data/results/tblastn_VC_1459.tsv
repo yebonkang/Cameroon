@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	qstart	qend	sstart	send	evalue	score
+VC_1459	assm_Cam23_contig00001	98.969	97	1	97	830550	830260	3.59e-57	481
+VC_1459	assm_Cam23_contig00001	98.969	97	1	97	823999	823709	3.59e-57	481
+VC_1459	N16961_NC_002505.1	98.969	97	1	97	1569702	1569412	3.59e-57	481

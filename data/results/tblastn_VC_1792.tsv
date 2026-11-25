@@ -1,0 +1,3 @@
+qseqid	sseqid	pident	length	qstart	qend	sstart	send	evalue	score
+VC_1792	N16961_NC_002505.1	100.000	119	1	119	1940273	1939917	6.35e-76	624
+VC_1792	assm_Cam10_S10_contig00003	31.148	61	42	96	31403	31221	5.8	60
