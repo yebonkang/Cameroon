@@ -1,0 +1,3 @@
+qseqid	sseqid	pident	length	qstart	qend	sstart	send	evalue	score
+VC_1466	N16961_NC_002505.1	100.000	55	1	55	1579366	1579202	8.67e-32	285
+VC_1466	N16961_NC_002505.1	100.000	55	1	55	1574515	1574351	8.67e-32	285

@@ -1,0 +1,3 @@
+qseqid	sseqid	pident	length	qstart	qend	sstart	send	evalue	score
+VC_1802	N16961_NC_002505.1	100.000	78	1	78	1948022	1947789	7.84e-48	407
+VC_1802	KNE17_gnl|Prokka|JDCNFJNE_2	35.484	62	13	70	157267	157449	2.7	56
